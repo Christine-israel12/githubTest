@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SqlServerConnection": "Data Source=DDC-PH-MISRAEL;Initial Catalog=expense_entry_journal;Integrated Security=True"
+
+  }
+}

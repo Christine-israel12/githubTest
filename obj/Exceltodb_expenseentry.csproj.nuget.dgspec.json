@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Christine.Israel\\OneDrive - Inchcape\\Documents\\Development\\Azure Task\\Sprint 30- Talend\\Final Task\\Exceltodb_expenseentry\\Exceltodb_expenseentry.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Christine.Israel\\OneDrive - Inchcape\\Documents\\Development\\Azure Task\\Sprint 30- Talend\\Final Task\\Exceltodb_expenseentry\\Exceltodb_expenseentry.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Christine.Israel\\OneDrive - Inchcape\\Documents\\Development\\Azure Task\\Sprint 30- Talend\\Final Task\\Exceltodb_expenseentry\\Exceltodb_expenseentry.csproj",
+        "projectName": "Exceltodb_expenseentry",
+        "projectPath": "C:\\Users\\Christine.Israel\\OneDrive - Inchcape\\Documents\\Development\\Azure Task\\Sprint 30- Talend\\Final Task\\Exceltodb_expenseentry\\Exceltodb_expenseentry.csproj",
+        "packagesPath": "C:\\Users\\Christine.Israel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christine.Israel\\OneDrive - Inchcape\\Documents\\Development\\Azure Task\\Sprint 30- Talend\\Final Task\\Exceltodb_expenseentry\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Christine.Israel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.101.0, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
+            "Microsoft.Azure.Functions.Extensions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1001, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
